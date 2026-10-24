@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #4CAF50;">Hi, I'm Eweh Emmanuel 👋</h1>
+
 <p align="center">
    <i style="color: #8E44AD;">Software Engineer  | Machine Learning Enthusiast | Flutter App Developer | Code Reviewer| Fictional Writer</i>
 </p>
@@ -9,12 +9,7 @@
 
 ---
 
-### 🎓 About Me
-I'm a multi-skilled professional passionate about **DevOps**, **Software Engineering**, **Flutter App Development**, and **Machine Learning**. 
-- 🎓 **Education**: **B. ENG in Computer(software) Engineering** from **Faculty Of Engineering and Technology, Universty of Buea, Cameroon**
-- ✨ **Hobbies**: Writing fiction, and sharing technical knowledge
 
----
 
 #### **Languages**
 <p>
